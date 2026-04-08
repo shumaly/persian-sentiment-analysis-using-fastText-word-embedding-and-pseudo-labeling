@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.matplotlib/
+results/
+Digikala_3M.csv
+DigiKalaEmbeddingVectors.vec
