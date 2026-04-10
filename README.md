@@ -1,4 +1,4 @@
-# Persian Sentiment Analysis with fastText Embeddings and Pseudo-Labeling ([Try the demo](#links) • [Cite this work](#article-information))
+# Persian Sentiment Analysis with fastText Embeddings and Pseudo-Labeling ([Try the demo](https://huggingface.co/spaces/sajjadly/persian_sentiment) • [Cite this work](#article-information))
 
 <p align="center">
   <img src="e-commerce%20sentiment%20analysis.png" alt="Project Diagram" width="520">
@@ -119,11 +119,6 @@ Typical files include:
 - `artifacts/reports/cnn_pseudolabel_report.txt`
 
 These files store the trained model, tokenizer, training metadata, and a summary report.
-
-## Links
-
-- **Kaggle dataset:** [https://www.kaggle.com/datasets/sajjdeus/digikala-sentimentanalysis-3milioncomments](https://www.kaggle.com/datasets/sajjdeus/digikala-sentimentanalysis-3milioncomments)
-- **Hugging Face demo:** [https://huggingface.co/spaces/sajjadly/persian\_sentiment](https://huggingface.co/spaces/sajjadly/persian_sentiment)
 
 ## Article information
 
