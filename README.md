@@ -1,4 +1,4 @@
-# Persian Sentiment Analysis with fastText Embeddings and Pseudo-Labeling ([Try the demo](https://huggingface.co/spaces/sajjadly/persian_sentiment) • [Cite this work](#article-information))
+# Accurate and Lightweight Persian Sentiment Analysis for E-commerce Reviews ([Try the demo](https://huggingface.co/spaces/sajjadly/persian_sentiment) • [Cite this work](#article-information))
 
 <p align="center">
   <img src="e-commerce%20sentiment%20analysis.png" alt="Project Diagram" width="520">
