@@ -125,7 +125,7 @@ These files store the trained model, tokenizer, training metadata, and a summary
 If you use this repository in research or academic work, please cite the original article.
 
 **Title:** Persian sentiment analysis of an online store independent of pre-processing using convolutional neural network with fastText embeddings\
-**Authors:** Sajjad Shumaly, Dorsa Sadat Mousavi, Mohammad Mehdi Aslani, and Mohammad Effatparvar\
+**Authors:** Sajjad Shumaly, Mohsen YazdiNejad, Yanhui Guo\
 **Journal:** PeerJ Computer Science\
 **Year:** 2021\
 **DOI:** 10.7717/peerj-cs.422
